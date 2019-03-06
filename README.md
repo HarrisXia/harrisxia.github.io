@@ -1,30 +1,16 @@
-## Welcome to GitHub Pages
+## Biography
 
-You can use the [editor on GitHub](https://github.com/TJUNatsume/TJUNatsume.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a master of Eng. candidite now (Advisor: [Chunping Hou](http://www.tju.edu.cn/seea/szdw/txx/201706/t20170607_295824.htm) at [Tianjin University](https://www.tju.edu.cn/). I am interested in deep learning based and their applications to GAN, Computer Vision and Information Fusion. I received my bachelor degree from Tianjin University in 2017. (Advisor: Hao Yuan and [Gang Li](http://www.tju.edu.cn/seea/szdw/zdhx/201610/t20161014_286533.htm))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: xiahan@tju.edu.cn
+Phone Number: +8616605222566
+My LinkedIn address:https://www.linkedin.com/in/tjuxh/
 
-### Markdown
+
+## Research Highlights
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
